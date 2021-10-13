@@ -1,0 +1,122 @@
+a{
+    color: #11999e;
+    text-decoration: none;
+    margin-right: 20px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family:sans-serif;
+}
+h1{
+  color: #66bfbf;
+  margin-top: 0;
+  font-size: 5.625rem;
+  font-family: 'Ephesis', cursive;
+  margin-bottom: 0;
+}
+h2{
+  color: #66bfbf;
+  font-size: 2rem;
+  line-height: 2;
+}
+h3{
+  color: #11999e;
+}
+hr{
+  border-style: dotted none none none;
+  border-width:10px;
+  color: #11999e;
+  width: 7%;
+  padding: 40px 0 40px 0;
+}
+
+span{
+  text-decoration: underline;
+  font-weight:normal;
+}
+.top_container{
+  background-color: #fef9ef;
+  position: relative;
+  padding-top: 100px;
+}
+.top_cloud{
+  position: absolute;
+  right:400px;
+  top:50px;
+}
+.bottom_cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.middle-container{
+  margin: auto;
+  padding-bottom: 30px;
+  width: 50%;
+  line-height: 2;
+}
+
+.contact-me{
+  width: 50%;
+  line-height: 2;
+  margin: auto;;
+}
+
+.bottom-container{
+  background-color: #fef9ef;
+  padding: 40px 0 0 0;
+  line-height: 2;
+}
+.bottom-para{
+  margin:20px 0 0 0;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Video{
+  width: 25%;
+  float:left;
+  margin-right: 40px;
+}
+.Photograpy{
+  width: 25%;
+  float:right;
+  margin-right: 40px;
+}
+.Communication{
+  width: 25%;
+  float:left;
+  margin-right: 40px;
+}
+
+.BUTTON_HIV {
+   background: #66BFBF;
+   background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+   background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+   background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+   background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+   background-image: -webkit-gradient(to bottom, #66BFBF, #66BFBF);
+   -webkit-border-radius: 41px;
+   -moz-border-radius: 41px;
+   border-radius: 41px;
+   height: 22px;
+   line-height: 22px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 186px;
+   font-size: 27px;
+   font-weight: 100;
+   padding: 6px;
+   border: solid #66BFBF 8px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 50px 0 50px 0;
+}
